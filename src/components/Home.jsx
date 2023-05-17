@@ -11,7 +11,8 @@ const Home = () => {
 
             <div className='flex flex-col justify-center h-full'>
                 <h2 className='text-4xl sm:7xl font-bold text-white'>
-                    I'm a FrontEnd Developer
+                  Hi👋, <br/>
+                  I'm a FrontEnd Developer
                 </h2>
                     <p className='text-gray-500 py-4 max-w-md'>
                         A second-year undergrad who loves to work on web applications using React and Tailwind.
