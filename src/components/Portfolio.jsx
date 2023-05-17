@@ -15,7 +15,7 @@ const Portfolio = () => {
         {
             id:2,
             src: portfolio,
-            demoHref: 'https://github.com/Ashhar-24/Parichay',
+            demoHref: 'https://ashhar-parichay.netlify.app/',
             codeHref: 'https://github.com/Ashhar-24/Parichay',
         },
     ]
