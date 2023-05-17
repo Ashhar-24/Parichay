@@ -17,7 +17,7 @@ const About = () => {
             <br />
 
             <p className='text-xl'>
-            In positions of responsibility, I coordinated with the T&P cell (Dept. of CSE) established connections with <br/> 20+ companies, and led successful events with 300+ attendees. As Collaboration and Media Head for IEEE, I contributed to chapter growth and publicity. Notably, I ranked in the top 2% in the IIT-JEE Advanced 2021 exam and scored 98.4 percentile in Chemistry in the IIT-JEE Mains 2021 exam.
+            In positions of responsibility, I coordinated with the T&P cell (Dept. of CSE) and established connections with <br/> 20+ companies, and led successful events with 300+ attendees. As Collaboration and Media Head for IEEE, I contributed to chapter growth and publicity. Notably, I ranked in the top 2% in the IIT-JEE Advanced 2021 exam and scored 98.4 percentile in Chemistry in the IIT-JEE Mains 2021 exam.
             </p>
         </div>
     </div>
