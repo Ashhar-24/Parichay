@@ -12,12 +12,14 @@ const About = () => {
             </div>
             <p className='text-xl mt-20'>
             I am a dedicated student pursuing a Bachelor of Technology in Information Technology at Rajiv Gandhi Institute of Petroleum Technology. Proficient in C/C++, Python, HTML, CSS, JavaScript, SQL, and PHP, I also have expertise in Git, GitHub, ReactJS, and Tailwind. I have practical experience through projects like "techBuddy" a web application helping college students select educational gadgets, and "Parichay" a responsive personal portfolio and blogging website. 
+            <br/>Currently I'm working on a project "Demand Forecasting" which uses data science and machine learning algorithms like nueral network.
             </p>
 
             <br />
 
             <p className='text-xl'>
-            In positions of responsibility, I coordinated with the T&P cell (Dept. of CSE) and established connections with <br/> 20+ companies, and led successful events with 300+ attendees. As Collaboration and Media Head for IEEE, I contributed to chapter growth and publicity. Notably, I ranked in the top 2% in the IIT-JEE Advanced 2021 exam and scored 98.4 percentile in Chemistry in the IIT-JEE Mains 2021 exam.
+            In positions of responsibility, I coordinated with the T&P cell (Dept. of CSE) and established connections with <br/> 20+ companies, and led successful events with 300+ attendees. As Collaboration and Media Head for IEEE, I contributed to chapter growth and publicity. Notably, I attained a remarkable milestone by clearing IIT-JEE Advanced 2021 ,ranking
+among the top 2.5% of 1.2 million students.
             </p>
         </div>
     </div>
