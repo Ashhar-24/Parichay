@@ -5,10 +5,20 @@ import javascript from '../assets/javascript.png'
 import reactImage from '../assets/react.png'
 import github from '../assets/github.png'
 import tailwind from '../assets/tailwind.png'
+import cpp from '../assets/c++.png'
+import python from '../assets/python.jpg'
+import php from '../assets/php.png'
+
 
 const Experience = () => {
 
     const techs= [
+        {
+            id:1,
+            src:cpp,
+            title: 'C++',
+            style: 'shadow-blue-500'
+        },
         {
             id:1,
             src: html,
