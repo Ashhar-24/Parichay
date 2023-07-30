@@ -6,8 +6,9 @@ import reactImage from '../assets/react.png'
 import github from '../assets/github.png'
 import tailwind from '../assets/tailwind.png'
 import cpp from '../assets/c++.png'
-import python from '../assets/python.jpg'
+import python from '../assets/python.png'
 import php from '../assets/php.png'
+import mysql from '../assets/mysql.png'
 
 
 const Experience = () => {
@@ -17,7 +18,13 @@ const Experience = () => {
             id:1,
             src:cpp,
             title: 'C++',
-            style: 'shadow-blue-500'
+            style: 'shadow-blue-300'
+        },
+        {
+            id:1,
+            src: python,
+            title: 'Python',
+            style: 'shadow-yellow-200'
         },
         {
             id:1,
@@ -48,6 +55,18 @@ const Experience = () => {
             src: tailwind,
             title: 'Tailwind',
             style: 'shadow-sky-400'
+        },
+        {
+            id:6,
+            src: php,
+            title: 'Php',
+            style: 'shadow-sky-600'
+        },
+        {
+            id: 6,
+            src: mysql,
+            title: 'MySql',
+            style: 'shadow-yellow-800'
         },
         {
             id:6,
