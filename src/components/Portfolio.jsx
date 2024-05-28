@@ -1,15 +1,22 @@
 import React from 'react'
 import techBuddy from '../assets/portfolio/techBuddy.png'
 import portfolio from '../assets/portfolio/portfolio.png'
+import chatbot from '../assets/portfolio/Chatbot.png'
 
 
 const Portfolio = () => {
 
     const portfolios = [
         {
+            id: 1,
+            src: chatbot,
+            // demoHref: '',
+            codeHref: 'https://github.com/Ashhar-24/Llama2-Medical-Chatbot'
+        },
+        {
             id:1,
             src: techBuddy,
-            demoHref: 'https://techbuddy-ashhar01.000webhostapp.com/',
+            // demoHref: 'https://techbuddy-ashhar01.000webhostapp.com/',
             codeHref: 'https://github.com/Ashhar-24/techBuddy',
         },
         {
@@ -18,6 +25,7 @@ const Portfolio = () => {
             demoHref: 'https://ashhar-parichay.netlify.app/',
             codeHref: 'https://github.com/Ashhar-24/Parichay',
         },
+
     ]
 
 

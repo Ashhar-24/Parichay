@@ -9,7 +9,8 @@ import cpp from '../assets/c++.png'
 import python from '../assets/python.png'
 import php from '../assets/php.png'
 import mysql from '../assets/mysql.png'
-
+import flask from '../assets/flask.jpeg'
+import chainlit from '../assets/chainlit.svg'
 
 const Experience = () => {
 
@@ -63,17 +64,31 @@ const Experience = () => {
             style: 'shadow-sky-600'
         },
         {
-            id: 9,
+            id:9,
+            src: flask,
+            title: 'Flask',
+            style: 'shadow-green-600'
+
+        },
+        {
+            id: 10,
             src: mysql,
             title: 'MySql',
             style: 'shadow-yellow-800'
         },
         {
-            id:10,
+            id:11,
             src: github,
             title: 'GitHub',
             style: 'shadow-gray-400'
         },
+        {
+            id: 12,
+            src: chainlit,
+            title: 'Chainlit',
+            style: 'shadow-pink-400',
+        }
+
     ]
 
   return (

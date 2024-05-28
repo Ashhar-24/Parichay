@@ -13,12 +13,12 @@ const Home = () => {
             <div className='flex flex-col justify-center h-full'>
                 <h2 className='text-4xl sm:7xl font-bold text-white'>
                   Hi👋, <br/>
-                  I'm a FrontEnd Developer
+                  I'm Md Ashhar
                 </h2>
                     <p className='text-gray-500 py-4 max-w-md'>
-                        A pre-final year undergrad who loves to work on web applications using React and Tailwind.
+                        A pre-final year undergrad who loves to work on web applications.
                         <p>
-                            Currently exploring the fascinating world of Open Source and Machine Learning.
+                            {/* Currently I'm a Research Intern at IIT (ISM) Dhanbad. */}
                         </p>
                     </p>
                     <div>
